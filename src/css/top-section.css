@@ -1,0 +1,12 @@
+.heroImage {
+  height: 280px;
+  width: 350px;
+}
+.wrapper {
+  width: 50%;
+  color: black;
+  margin: 2em 0 0 6em;
+}
+.header {
+  font-size: 2.5rem;
+}

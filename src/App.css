@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.Main {
+  margin-top: 5.5em;
+  display: flex;
+}
+
+.Image {
+  align-self: flex-end;
+}
